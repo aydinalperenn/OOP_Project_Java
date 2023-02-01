@@ -8,5 +8,4 @@
 - Kaynak kod içerisindeki yorum satırlarında tüm kodlar ve işlevleri detaylı bir şekilde açıklanmıştır.
 
 
-
-      **_Bu projenin yapımında ekip arkadaşlarım olan Tanem Çelik ve Ayşe Halise Demirel'e sonsuz teşekkürler._**     
+**_Bu projenin yapımında ekip arkadaşlarım olan Tanem Çelik ve Ayşe Halise Demirel'e sonsuz teşekkürler._**     
