@@ -1,4 +1,4 @@
-# OOP_Project_Java
+# OOP_Project_Java - 2022
 ## OOP and Class Based Java Console App
 
 - Java dili kullanarak Object Oriented temelli oluşturduğumuz bu proje bir ÜniversiteYönetim Sistemi konsol uygulamasıdır.
