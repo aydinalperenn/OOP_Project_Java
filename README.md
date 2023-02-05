@@ -8,4 +8,7 @@
 - Kaynak kod içerisindeki yorum satırlarında tüm kodlar ve işlevleri detaylı bir şekilde açıklanmıştır.
 
 
+Projenin kısaca anlatıldığı sunum videosu: https://www.youtube.com/watch?v=p-q7x5q36QU
+
+
 **_Bu projenin yapımında ekip arkadaşlarım olan Tanem Çelik ve Ayşe Halise Demirel'e sonsuz teşekkürler._**     
